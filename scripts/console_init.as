@@ -1,0 +1,1 @@
+﻿this.attachMovie( "emptyConsole", "console", this.getNextHighestDepth() );
